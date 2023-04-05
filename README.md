@@ -1,5 +1,6 @@
 # ProyectoCARloS
 El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar tanto coches deportivos como accesorios para los mismos, la temática se basa en coches, deportividad, agresividad y llamar la atención.
+
 La web contendrá las siguientes vistas:
 
   Antes de iniciar sesión  
