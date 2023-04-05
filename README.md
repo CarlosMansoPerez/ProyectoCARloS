@@ -4,11 +4,10 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
 La web contendrá las siguientes vistas:
 
   Antes de iniciar sesión  
-  - Landing page
-  - LogIn
+  - Landing page y LogIn
   - Registro
 
-  Tras iniciar sesión  
+  Tras iniciar sesión
   - Todos los coches disponibles en la web
   - Vista específica para el coche seleccionado
   - Todos los accesorios disponibles en la web
@@ -21,3 +20,6 @@ La web contendrá las siguientes vistas:
   
     - Para el frontEnd será utilizado Javascript, AJAX, CSS3 y Tailwind
     - Para el backEnd será utilizado Laravel Breeze
+
+  MOCKUP
+  [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157259/proyecto.CARloS.pdf)
