@@ -21,5 +21,5 @@ La web contendrá las siguientes vistas:
     - Para el backEnd será utilizado Laravel Breeze
 
   MOCKUP
-  [embed](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157259/proyecto.CARloS.pdf)[/embed]
-  [embed]http://example.com/file.pdf[/embed]
+  [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157355/proyecto.CARloS.pdf)
+
