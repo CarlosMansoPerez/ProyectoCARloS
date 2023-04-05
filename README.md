@@ -22,3 +22,4 @@ La web contendrá las siguientes vistas:
 
   MOCKUP
   [embed](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157259/proyecto.CARloS.pdf)[/embed]
+  [embed]http://example.com/file.pdf[/embed]
