@@ -17,9 +17,8 @@ La web contendrá las siguientes vistas:
   
   
   TECNOLOGÍAS UTILIZADAS
-  
-    - Para el frontEnd será utilizado Javascript, AJAX, CSS3 y Tailwind
+     - Para el frontEnd será utilizado Javascript, AJAX, CSS3 y Tailwind
     - Para el backEnd será utilizado Laravel Breeze
 
   MOCKUP
-  [embed][proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157259/proyecto.CARloS.pdf)[/embed]
+  [embed](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157259/proyecto.CARloS.pdf)[/embed]
