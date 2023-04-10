@@ -1,7 +1,7 @@
 # ProyectoCARloS
 El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar tanto coches deportivos como accesorios para los mismos, la temática se basa en coches, deportividad, agresividad y llamar la atención.
 
-*La web contendrá las siguientes vistas:*
+# La web contendrá las siguientes vistas:
 
   Antes de iniciar sesión  
   - Landing page y LogIn
@@ -16,10 +16,10 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
   - Carrito/cesta del usuario
   
   
-  TECNOLOGÍAS UTILIZADAS
+ # TECNOLOGÍAS UTILIZADAS
      - Para el frontEnd será utilizado Javascript, AJAX, CSS3 y Tailwind
     - Para el backEnd será utilizado Laravel Breeze
 
-  MOCKUP
+ # MOCKUP
 [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157819/proyecto.CARloS.pdf)
 
