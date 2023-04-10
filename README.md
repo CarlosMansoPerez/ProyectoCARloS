@@ -3,11 +3,11 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
 
 # VISTAS DE LA WEB:
 
-  Antes de iniciar sesión  
-  - Landing page y LogIn
-  - Registro
+  - Antes de iniciar sesión  
+    - Landing page y LogIn
+    - Registro
 
-  Tras iniciar sesión:
+  - Tras iniciar sesión:
     - Usuario general
       - Todos los coches disponibles en la web
       - Vista específica para el coche seleccionado
