@@ -7,13 +7,23 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
   - Landing page y LogIn
   - Registro
 
-  Tras iniciar sesión
-  - Todos los coches disponibles en la web *(Admin puede borrar o editar cualquiera de ellos con su vista correspondiente)*
+  Tras iniciar sesión:
+  # Usuario general
+  - Todos los coches disponibles en la web
   - Vista específica para el coche seleccionado
-  - Todos los accesorios disponibles en la web *(Admin puede borrar o editar cualquiera de ellos con su vista correspondiente)*
+  - Todos los accesorios disponibles en la web
   - Vista específica para el accesorio seleccionado
   - Perfil de usuario
   - Carrito/cesta del usuario
+
+  # Administrador
+  - Todos los coches disponibles en la web, pudiendo insertar nuevos coches, con una vista correspondiente,
+    y las opciones de borrar o editar para cada uno de ellos
+  - Vista específica para el coche seleccionado
+  - Todos los accesorios disponibles en la web, pudiendo insertar nuevos accesorios, con una vista correspondiente,
+    y las opciones de borrar o editar para cada uno de ellos
+  - Vista específica para el accesorio seleccionado
+  - Perfil de usuario
   
  # TECNOLOGÍAS UTILIZADAS
      - FrontEnd
