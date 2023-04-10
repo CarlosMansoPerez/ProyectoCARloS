@@ -26,14 +26,15 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
       - Perfil de usuario
   
  # TECNOLOGÍAS UTILIZADAS
+ 
      - FrontEnd
-       * Javascript
-       * AJAX
-       * CSS3
-       * Tailwind
+       - Javascript
+       - AJAX
+       - CSS3
+       - Tailwind
       
-    - BackEnd
-      * Laravel Breeze
+      - BackEnd
+        - Laravel Breeze
 
  # MOCKUP
 [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157819/proyecto.CARloS.pdf)
