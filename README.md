@@ -39,7 +39,8 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
  # MOCKUP
 [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157819/proyecto.CARloS.pdf)
 
- # ESTRUCTURA BBDD ACTUAL (A falta de añadir 1 o 2 tablas más con los accesorios)
+ # ESTRUCTURA BBDD ACTUAL
+ (A falta de añadir 1 o 2 tablas más con los accesorios)
 ![imagen](https://github.com/CarlosMansoPerez/ProyectoCARloS/assets/91953208/a5db6753-0c99-4ed3-b8a2-9c25217e70b9)
 
 
