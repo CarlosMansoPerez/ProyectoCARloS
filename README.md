@@ -39,3 +39,6 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
  # MOCKUP
 [proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157819/proyecto.CARloS.pdf)
 
+
+ # VÍDEO CHECKPOINT
+https://youtu.be/gZI91-yX52U
