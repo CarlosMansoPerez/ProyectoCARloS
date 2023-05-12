@@ -47,3 +47,7 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar ta
 https://youtu.be/gZI91-yX52U
 
  # BIBLIOGRAFÍA
+ 
+[W3Schools](https://www.w3schools.com/)
+[Vídeos tutoriales de Youtube](https://www.youtube.com/)
+[Stack Overflow](https://stackoverflow.com/)
