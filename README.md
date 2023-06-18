@@ -58,3 +58,4 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 - 📗 [W3Schools](https://www.w3schools.com/)
 - 📹 [Vídeos tutoriales de Youtube](https://www.youtube.com/)
 - 💻 [Stack Overflow](https://stackoverflow.com/)
+- 📖[DigitalOcean](https://digitalocean.com/)
