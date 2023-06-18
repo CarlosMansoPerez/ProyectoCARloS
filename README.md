@@ -59,3 +59,6 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 - 📹 [Vídeos tutoriales de Youtube](https://www.youtube.com/)
 - 💻 [Stack Overflow](https://stackoverflow.com/)
 - 📖[DigitalOcean](https://digitalocean.com/)
+
+# PRESENTACIÓN PDF
+[Presentación PDF CARloS](https://drive.google.com/file/d/1fBKqmRUxpo4npbnCRp1cImQxDU7_BMMn/view?usp=drive_link/)
