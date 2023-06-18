@@ -1,5 +1,5 @@
 # Proyecto CARloS 🏎
-El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar tanto coches deportivos como accesorios para los mismos, la temática se basa en coches, deportividad, agresividad y llamar la atención.
+El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar coches deportivos, la temática se basa en deportividad, agresividad y llamar la atención.
 
 # Link al repositorio con el proyecto e historial de commits
 https://github.com/CarlosMansoPerez/CARloSProyectoDWES
@@ -13,20 +13,21 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
   - Tras iniciar sesión:
     - Usuario general
       - Todos los coches disponibles en la web
-      - Vista específica para el coche seleccionado
+      - Vista específica para el coche seleccionado y valoraciones y comentarios del mismo
+      - Vista de un comparador de características de 2 coches
       - Todos los accesorios disponibles en la web
-      - Vista específica para el accesorio seleccionado
       - Perfil de usuario
       - Carrito/cesta del usuario
 
     - Administrador
       - Todos los coches disponibles en la web, pudiendo insertar nuevos coches, con una vista correspondiente,
         y las opciones de borrar o editar para cada uno de ellos
-      - Vista específica para el coche seleccionado
+      - Vista específica para el coche seleccionado y valoraciones y comentarios del mismo
+      - Vista de un comparador de características de 2 coches
       - Todos los accesorios disponibles en la web, pudiendo insertar nuevos accesorios, con una vista correspondiente,
         y las opciones de borrar o editar para cada uno de ellos
-      - Vista específica para el accesorio seleccionado
       - Perfil de usuario
+      - Panel de administración con datos empresariales de la empresa
   
  # TECNOLOGÍAS UTILIZADAS ⌨
  
@@ -35,16 +36,20 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
     - AJAX
     - CSS3
     - Tailwind
+    - FontAwesome
       
   - BackEnd
     - Laravel Breeze
+    - PHP
 
- # MOCKUP
-[proyecto CARloS.pdf](https://github.com/CarlosMansoPerez/ProyectoCARloS/files/11157819/proyecto.CARloS.pdf)
+  - Recursos externos 
+    - SweetAlert2 (para mensajes de alerta e información)
+    - Pixabay (para imágenes y vídeos)
+    - api.generadordni (API para datos de personas)
 
- # ESTRUCTURA BBDD ACTUAL
-( Faltaría añadir 1 o 2 tablas más con los accesorios )
-![imagen](https://github.com/CarlosMansoPerez/ProyectoCARloS/assets/91953208/a5db6753-0c99-4ed3-b8a2-9c25217e70b9)
+
+ # ESTRUCTURA BBDD
+![imagen](https://github.com/CarlosMansoPerez/ProyectoCARloS/assets/91953208/1fcd14ef-775d-490c-8066-541c5b377594)
 
  # VÍDEO CHECKPOINT 
  https://youtu.be/gZI91-yX52U
