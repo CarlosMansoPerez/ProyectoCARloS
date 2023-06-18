@@ -70,6 +70,6 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 - [PDF con explicación de fuentes y colores](https://docs.google.com/document/d/1j11s12u17NoM6KrGMWZ3YhBP3xJ_9WFEagxcUW4YVMQ/edit?usp=drive_link)
 - [Prototipo Figma de la web](https://www.figma.com/file/xetEgNlccgGXd1XnjB7PLJ/Figma-Proyecto-Final?type=design&node-id=0%3A1&t=WGfTVjsv5zlpf0AS-1)
 
- # Vídeos WEB CARloS
+ # Vídeos Web CARloS
   - [Vídeo Máximo 5 minutos](https://youtu.be/ZKqdYJ_bPtA)
   - [Vídeo con detalles](https://youtu.be/pT7yI7eZR70)
