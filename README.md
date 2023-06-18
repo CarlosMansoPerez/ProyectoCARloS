@@ -51,7 +51,7 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
     - api.generadordni (API para datos de personas)
 
 
- # ESTRUCTURA BBDD
+ # ESTRUCTURA BBDD 💾
 ![imagen](https://github.com/CarlosMansoPerez/ProyectoCARloS/assets/91953208/1fcd14ef-775d-490c-8066-541c5b377594)
 
  # VÍDEO CHECKPOINT 
@@ -63,5 +63,9 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 - 💻 [Stack Overflow](https://stackoverflow.com/)
 - 📖[DigitalOcean](https://digitalocean.com/)
 
-# PRESENTACIÓN PDF
+# PRESENTACIÓN PDF 📄
 [Presentación PDF CARloS](https://drive.google.com/file/d/1fBKqmRUxpo4npbnCRp1cImQxDU7_BMMn/view?usp=drive_link/)
+
+# DISEÑO DE INTERFACES WEB 🖌️🎨
+[PDF con explicación de fuentes y colores](https://docs.google.com/document/d/1j11s12u17NoM6KrGMWZ3YhBP3xJ_9WFEagxcUW4YVMQ/edit?usp=drive_link)
+[Prototipo Figma de la web](https://www.figma.com/file/xetEgNlccgGXd1XnjB7PLJ/Figma-Proyecto-Final?type=design&node-id=0%3A1&t=WGfTVjsv5zlpf0AS-1)
