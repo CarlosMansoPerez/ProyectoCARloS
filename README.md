@@ -63,7 +63,7 @@ https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 - 💻 [Stack Overflow](https://stackoverflow.com/)
 - 📖[DigitalOcean](https://digitalocean.com/)
 
-  # PRESENTACIÓN PDF 📄
+ # PRESENTACIÓN PDF 📄
 [Presentación PDF CARloS](https://drive.google.com/file/d/1fBKqmRUxpo4npbnCRp1cImQxDU7_BMMn/view?usp=drive_link/)
 
   # DISEÑO DE INTERFACES WEB 🖌️🎨
