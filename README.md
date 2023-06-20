@@ -4,6 +4,10 @@ El proyecto de CARloS se basa en una web donde se pueden visualizar y comprar co
 # Link a CARloS
 [CARloS](http://carlosmanso.es)
 
+  Login con admin:
+  Email: admin@gmail.com
+  Password: Carlos22
+
 # Link al repositorio con el proyecto e historial de commits
 https://github.com/CarlosMansoPerez/CARloSProyectoDWES
 
